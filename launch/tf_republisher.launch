@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="tf_republisher" type="tf_republisher" name="tf_republisher" output="screen" />
+</launch>
