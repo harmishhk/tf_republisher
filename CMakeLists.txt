@@ -14,8 +14,8 @@ find_package(catkin REQUIRED COMPONENTS
 
 ## declare catkin package
 catkin_package(
-  INCLUDE_DIRS
-    include
+#  INCLUDE_DIRS
+#    include
 #   LIBRARIES
 #     tf_republisher
   CATKIN_DEPENDS
